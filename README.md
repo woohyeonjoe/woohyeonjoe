@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📝 Project
+**School Project**
+
+- [Chatbot_SNS_with_Map]( https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map) / Chatbot and Andriod Function
