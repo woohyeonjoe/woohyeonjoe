@@ -25,7 +25,6 @@
 </div>
 
 ## 📝 Project
-**Team Project**
 
 - [AI 챗봇 서비스를 활용한 SNS](https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map)📱
 - [독거노인 케어 어플리케이션](https://github.com/senior-management-application-SISO/SISO)👴
