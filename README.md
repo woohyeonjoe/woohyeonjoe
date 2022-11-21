@@ -1,6 +1,6 @@
 
 <div><h2>📚 STACKS</h2></div>
-<div align=center> 
+<div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/c sharp-00599C?style=for-the-badge&logo=&logoColor=white">
@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> 
   <br>
-  
 </div>
 
 ## 📝 Project
