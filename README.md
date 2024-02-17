@@ -21,16 +21,3 @@
   <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> 
   <br>
 </div>
-
-## 📝 Project
-
-- [AI 챗봇 서비스를 활용한 SNS](https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map)📱
-- [독거노인 케어 서비스](https://github.com/senior-management-application-SISO/SISO)👴
-- [안심하고 차를 공유할 수 있는 카쉐어링 서비스](https://github.com/AnsimCar/asc-spring-server)🚗
-
-
-
-
-
-
-
